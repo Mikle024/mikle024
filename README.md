@@ -1,7 +1,7 @@
 # 👋🏻 Hello World, my name is Mikhail.
 **Abount me:**
 
-A graduate of "Netology" online-school, novice QA Engineer.
+A graduate of "Netology" <img src="https://disk.yandex.ru/d/bWOIFBuUNF3ogQ/black/short.png" alt="Нетология" height="150">, novice QA Engineer.
 
 A mainstreaming student at "School 21" from sber.
 

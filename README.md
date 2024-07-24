@@ -4,7 +4,7 @@
 A graduate of "Netology" <img src="https://github.com/user-attachments/assets/15cd2a4c-5a7f-4063-ba22-d908c72854a2" alt="Netology" height="15"> online-school !<br/>
 Novice QA Engineer.
 
-A mainstreaming student at "School 21" from sber. <img src="https://github.com/user-attachments/assets/bbda2990-2e03-4294-bfd8-dfe4c9c65ad2" alt="Sber" height="25">
+A mainstreaming student at "School 21" from sber. <img src="https://github.com/user-attachments/assets/bbda2990-2e03-4294-bfd8-dfe4c9c65ad2" alt="Sber" height="20">
 
 <img src="https://github.com/Mikle024/mikle024/assets/142490585/b2045511-7147-40de-9c23-a830e30d9689" alt="Медведь" height="150">
 

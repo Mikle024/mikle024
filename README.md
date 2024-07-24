@@ -2,6 +2,7 @@
 **Abount me:**
 
 A graduate of "Netology" online-school, novice QA Engineer.
+
 A mainstreaming student at "School 21" from sber.
 
 <img src="https://github.com/Mikle024/mikle024/assets/142490585/b2045511-7147-40de-9c23-a830e30d9689" alt="Медведь" height="150">

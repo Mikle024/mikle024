@@ -1,7 +1,7 @@
 # 👋🏻 Hello World, my name is Mikhail.
 **Abount me:**
 
-A graduate of online-school **Netology**. <img src="https://github.com/user-attachments/assets/15cd2a4c-5a7f-4063-ba22-d908c72854a2" alt="Netology" height="15"> <br/>
+A graduate of online-school **Netology**. <img src="https://github.com/user-attachments/assets/15cd2a4c-5a7f-4063-ba22-d908c72854a2" alt="Netology" height="20"> <br/>
 Novice QA Engineer.
 
 A mainstreaming student at **School 21** from sber. <img src="https://github.com/user-attachments/assets/8281b753-6eae-458a-899b-d0d2fb22544e" alt="Sber" height="20">

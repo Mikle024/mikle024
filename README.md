@@ -1,4 +1,4 @@
-# 👋🏻 Hello World, my name is Mikhail.
+# 🖇️
 **Abount me:**
 
 A mainstreaming student at **School 21** from sber. <img src="https://github.com/user-attachments/assets/8281b753-6eae-458a-899b-d0d2fb22544e" alt="Sber" height="18">
